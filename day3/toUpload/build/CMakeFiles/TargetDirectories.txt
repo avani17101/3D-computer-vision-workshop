@@ -1,0 +1,3 @@
+/home/lenovo/Desktop/3D-computer-vision-workshop/toUpload/build/CMakeFiles/edit_cache.dir
+/home/lenovo/Desktop/3D-computer-vision-workshop/toUpload/build/CMakeFiles/rebuild_cache.dir
+/home/lenovo/Desktop/3D-computer-vision-workshop/toUpload/build/CMakeFiles/graphics_asgn1.dir
