@@ -1,0 +1,80 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh visible="1" filename="ironman_16.obj" label="ironman_16.obj">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" wireWidth="1" boxColor="234 234 234 255" pointSize="3" pointColor="131 149 69 255" solidColor="192 192 192 255">100001000000000000000100000001011001010010100000100100111011100000000001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_00.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-1.71911 -56.4217 -74.961 1" ViewportPx="920 605" FocalMm="19.342" CenterPx="460 302.5" RotationMatrix="0.999757 -0.00782761 -0.0206167 0 0.00166901 0.959061 -0.283195 0 0.0219894 0.283092 0.958841 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_00.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_01.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-43.2799 -48.5177 -63.5322 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.830766 -0.0528385 -0.554108 0 -0.0579024 0.98188 -0.180442 0 0.553601 0.181989 0.812653 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_01.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_02.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-76.1076 -45.1537 -14.1962 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.184788 -0.0103833 -0.982724 0 -0.134674 0.990243 -0.0357865 0 0.973507 0.138961 0.181586 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_02.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_03.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-66.0591 -40.1044 41.4042 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="-0.527315 -0.0493109 -0.848238 0 -0.0892021 0.996011 -0.00244809 0 0.844975 0.0743737 -0.52961 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_03.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_04.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-28.5585 -36.8844 72.7296 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="-0.927883 0.0932433 -0.361023 0 0.0747631 0.99509 0.0648546 0 0.365298 0.0331863 -0.930299 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_04.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_05.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="42.1612 -44.2099 65.0841 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="-0.782459 0.289968 0.551069 0 0.311324 0.948587 -0.0570923 0 -0.539292 0.126889 -0.832504 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_05.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_06.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="67.0585 -60.7566 30.2422 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="-0.388808 0.0650012 0.919023 0 0.336271 0.938704 0.0758721 0 -0.857759 0.338541 -0.386834 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_06.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_07.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="71.4652 -58.6803 -20.2425 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.264655 -0.0246298 0.964028 0 0.307137 0.949769 -0.0600529 0 -0.914125 0.311982 0.258926 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_07.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_08.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="31.0749 -50.4026 -69.9046 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.916462 0.0404785 0.398068 0 0.0458475 0.977693 -0.204973 0 -0.397485 0.2061 0.894163 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_08.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_09.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="8.69135 -76.9221 -64.9528 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.983719 -0.0583987 0.169962 0 0.141202 0.836193 -0.529946 0 -0.111173 0.545317 0.830825 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_09.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_10.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-44.4651 -92.3138 -27.7128 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.497616 0.0326494 -0.866783 0 -0.654895 0.669388 -0.350758 0 0.568762 0.742195 0.35448 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_10.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_11.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-29.5503 -101.684 26.3953 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="-0.409928 -0.171149 -0.895917 0 -0.830113 0.477045 0.288688 0 0.377984 0.862053 -0.337627 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_11.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_12.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="35.0004 -103.16 11.9943 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="-0.652812 -0.204749 0.729325 0 0.611068 0.426671 0.666744 0 -0.447697 0.880925 -0.153421 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_12.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_13.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="15.0556 -101.84 -36.3626 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.921616 -0.003499 0.388088 0 0.336953 0.503401 -0.795644 0 -0.19258 0.864046 0.465121 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_13.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_14.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="-3.89963 -86.8961 -57.7001 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.969168 -0.211146 0.127005 0 0.241299 0.708963 -0.662681 0 0.0498808 0.672895 0.738054 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_14.png" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/Raster Camera/ironman_aligned_16/ironman_raster_15.png">
+   <VCGCamera PixelSizeMm="0.0369161 0.0369161" CameraType="0" BinaryData="0" LensDistortion="0 0" TranslationVector="3.30309 -111.874 -9.03644 1" ViewportPx="920 672" FocalMm="21.484" CenterPx="460 336" RotationMatrix="0.993738 0.0297631 0.107703 0 0.103444 0.119414 -0.987441 0 -0.0422506 0.992398 0.115587 0 0 0 0 1 "/>
+   <Plane fileName="ironman_raster_15.png" semantic="1"/>
+  </MLRaster>
+ </RasterGroup>
+</MeshLabProject>

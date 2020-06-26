@@ -1,0 +1,24 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="helmet.obj" filename="helmet.obj" visible="1">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" pointColor="131 149 69 255" boxColor="234 234 234 255" pointSize="3" solidColor="192 192 192 255" wireWidth="1">100001000000000000000100000001011001010010100000100100111011100000000001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/ironman helmet/obj/ironman00.png">
+   <VCGCamera FocalMm="19.342" LensDistortion="0 0" ViewportPx="920 605" TranslationVector="-5.12976 -66.9947 -70.8238 1" RotationMatrix="0.996946 -0.0660027 -0.0417303 0 0.0423361 0.905893 -0.421385 0 0.0656158 0.418332 0.905921 0 0 0 0 1 " BinaryData="0" PixelSizeMm="0.0369161 0.0369161" CameraType="0" CenterPx="460 302.5"/>
+   <Plane semantic="1" fileName="ironman00.png"/>
+  </MLRaster>
+  <MLRaster label="/home/iiit/Meshlab Tutorial/ironman helmet/obj/ironman01.png">
+   <VCGCamera FocalMm="21.484" LensDistortion="0 0" ViewportPx="920 672" TranslationVector="-74.374 -58.3385 -1.44736 1" RotationMatrix="0.0283071 -0.027406 -0.999224 0 -0.306863 0.951118 -0.0347798 0 0.951333 0.30761 0.0185134 0 0 0 0 1 " BinaryData="0" PixelSizeMm="0.0369161 0.0369161" CameraType="0" CenterPx="460 336"/>
+   <Plane semantic="1" fileName="ironman01.png"/>
+  </MLRaster>
+ </RasterGroup>
+</MeshLabProject>
